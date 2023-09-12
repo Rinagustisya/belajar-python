@@ -1,1 +1,2 @@
 # python
+belajar dasar phyton
